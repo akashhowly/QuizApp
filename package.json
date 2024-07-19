@@ -1,6 +1,6 @@
 {
   "name": "quizapp",
-  "Homepage": "https://akashhowly.github.io/QuizApp/",
+  "homepage": "https://akashhowly.github.io/QuizApp/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
